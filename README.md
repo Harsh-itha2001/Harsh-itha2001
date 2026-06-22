@@ -1,26 +1,33 @@
-
 # Hi, I'm Harshitha! 👋
 
-### 🚀 Associate Software Engineer | Full-Stack Developer
-I am a developer focused on building clean, functional, and user-centric web applications. I love solving complex logic challenges and turning ideas into responsive digital products.
+### 📊 Aspiring Data Analyst | SQL | Python | Power BI | Excel
+
+I enjoy transforming raw data into meaningful insights through data analysis, visualization, and business intelligence. I build end-to-end analytics projects using SQL, Python, Excel, and Power BI to solve real-world problems and support data-driven decision-making.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Java, Python, SQL, JavaScript
-- **Frontend:** React.js, HTML5, CSS3, Bootstrap
-- **Tools:** Git, GitHub, VS Code
+
+* **Languages:** Python, SQL, Java
+* **Data Analysis:** Pandas, NumPy, Excel
+* **Visualization & BI:** Power BI, Matplotlib
+* **Tools:** Git, GitHub, VS Code, MySQL
 
 ---
 
-### 🌟 Featured Project
-**[Ecommerce-website](https://github.com/Harsh-itha2001/Ecommerce-website)**
-*A responsive e-commerce web application featuring plant listings and payment functionality.*
-- **Built with:** HTML, CSS (In progress: Migrating to React.js)
-- **Key Feature:** Responsive design for seamless browsing on mobile and desktop.
+### 🌟 Featured Projects
+
+#### 📈 India Tech Job Market Analytics
+
+An end-to-end data analytics project using Python, SQL, MySQL, and Power BI to analyze hiring trends, top skills, salaries, and demand across the Indian technology sector.
+
+#### 💰 GreenLeaf Market Revenue Recovery Analysis
+
+A business analytics project that identifies revenue leakage, return patterns, courier performance, and profitability opportunities using Excel, Google Sheets, and interactive dashboards.
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/harshitha-s-167639256/)
-- **Email:** harshithas864@gmail.com
+
+* **LinkedIn:** https://www.linkedin.com/in/harshitha-s-167639256/
+* **Email:** [harshithas864@gmail.com](mailto:harshithas864@gmail.com)
