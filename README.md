@@ -26,7 +26,7 @@ Analyzed **1,554 job postings across 159 cities** to uncover hiring trends and r
 
 ---
 
-### 💰 [GreenLeaf Market Recovery | BI Dashboard](https://github.com/Harsh-itha2001/greenleaf-market-recovery)
+### 💰 [GreenLeaf Market Recovery | BI Dashboard][(https://github.com/Harsh-itha2001/greenleaf-market-recovery)]
 Identified **₹3,52,970 in financial leakage** against total revenue of ₹62,95,680. Pinpointed Shadowfax as the highest-risk courier at **9.29% return rate** — 5x higher than Bluedart. Recommended a logistics pivot strategy projected to recover **₹2,40,000+** in net profit.
 
 `Google Sheets` `KPI Reporting` `Data Visualization`
