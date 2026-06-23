@@ -1,12 +1,10 @@
 # Hi, I'm Harshitha! 👋
 ### 📊 Data Analyst | SQL | Python | Power BI | Business Intelligence
-
 I transform raw data into actionable business insights through data analysis, dashboard development, and business intelligence. With an Electronics & Communication Engineering background and hands-on analytics projects, I use SQL, Python, Excel, and Power BI to uncover trends, solve business problems, and support data-driven decision-making.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 | Category | Tools |
 |---|---|
 | Languages | Python, SQL |
@@ -26,7 +24,7 @@ Analyzed **1,554 job postings across 159 cities** to uncover hiring trends and r
 
 ---
 
-### 💰 [GreenLeaf Market Recovery | BI Dashboard](https://github.com/Harsh-itha2001/greenleaf-market-recovery)
+### 💰 [GreenLeaf Market Recovery | BI Dashboard](https://github.com/Harsh-itha2001/greenleaf-market-revenue-recovery-analysis)
 Identified **₹3,52,970 in financial leakage** against total revenue of ₹62,95,680. Pinpointed Shadowfax as the highest-risk courier at **9.29% return rate** — 5x higher than Bluedart. Recommended a logistics pivot strategy projected to recover **₹2,40,000+** in net profit.
 
 `Google Sheets` `KPI Reporting` `Data Visualization`
