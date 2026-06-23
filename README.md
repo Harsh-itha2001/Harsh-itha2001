@@ -33,7 +33,7 @@ Identified **₹3,52,970 in financial leakage** against total revenue of ₹62,9
 
 ---
 
-### 🐝 [WorkHive Member Churn Analytics Dashboard](https://github.com/Harsh-itha2001/workhive-churn-analytics)
+### 🐝 [WorkHive Member Churn Analytics Dashboard](https://github.com/Harsh-itha2001/-WorkHive-Member-Churn-Analytics-Dashboard )
 Analyzed churn across **549 members**, surfacing an overall churn rate of **16.58%** against a 12% target. Discovered Hot Desk plans had the highest churn at **22.05%**. Revealed cancelled members averaged only **5.03 badge swipes/month** vs. 15.66 for active members — a 3x engagement gap.
 
 `SQL` `Power BI` `Data Visualization`
