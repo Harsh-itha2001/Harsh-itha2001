@@ -1,97 +1,46 @@
-# Hi, I'm Harshitha! 👋
+Hi, I'm Harshitha! 👋
 
-### 📊 Data Analyst | SQL | Python | Power BI | Excel | Business Intelligence
+📊 Data Analyst | SQL | Python | Power BI | Business Intelligence
 
-I transform raw data into actionable business insights through data analysis, visualization, and business intelligence. With a Computer Science background and hands-on experience building analytics projects, I use SQL, Python, Excel, and Power BI to uncover trends, solve business problems, and support data-driven decision-making.
+I transform raw data into actionable business insights through data analysis, dashboard development, and business intelligence. With an Electronics & Communication Engineering background and hands-on analytics projects, I use SQL, Python, Excel, and Power BI to uncover trends, solve business problems, and support data-driven decision-making.
 
----
 
-## 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
 
-### Programming Languages
-- Python
-- SQL
-- Java
+CategoryToolsLanguagesPython, SQLDatabasesMySQLAnalysisPandas, NumPy, Microsoft Excel, Google SheetsVisualization & BIPower BI, MatplotlibToolsGit, GitHub, VS Code
 
-### Databases
-- MySQL
 
-### Data Analysis
-- Pandas
-- NumPy
-- Microsoft Excel
-- Google Sheets
+🌟 Featured Analytics Projects
 
-### Data Visualization & BI
-- Power BI
-- Matplotlib
+📈 Indian Job Market Analytics Dashboard
 
-### Tools
-- Git
-- GitHub
-- VS Code
+Analyzed 1,554 job postings across 159 cities to uncover hiring trends and role demand patterns across India's tech sector. Identified that Data Analyst roles represent 38.29% of all tech postings, with Bengaluru leading at 261 openings. Built an interactive Power BI dashboard visualizing city-wise demand and job role market share.
 
----
+SQL Python MySQL Pandas Matplotlib Power BI
 
-# 🌟 Featured Analytics Projects
 
-## 📈 India Tech Job Market Analytics
+💰 GreenLeaf Market Recovery | BI Dashboard
 
-Performed exploratory data analysis on technology job postings across India to identify hiring trends, job role demand, experience requirements, and regional employment patterns.
+Identified ₹3,52,970 in financial leakage against total revenue of ₹62,95,680. Pinpointed Shadowfax as the highest-risk courier at 9.29% return rate — 5x higher than Bluedart. Recommended a logistics pivot strategy projected to recover ₹2,40,000+ in net profit.
 
-Built an interactive dashboard highlighting top hiring cities, market share of technology roles, and workforce demand insights to support data-driven understanding of current hiring trends.
+Google Sheets KPI Reporting Data Visualization
 
-**Tools & Technologies:** Python, SQL, MySQL, Pandas, NumPy, Matplotlib, Power BI
 
----
+🐝 WorkHive Member Churn Analytics Dashboard
 
-## 💰 GreenLeaf Market Recovery | Business Intelligence Dashboard
+Analyzed churn across 549 members, surfacing an overall churn rate of 16.58% against a 12% target. Discovered Hot Desk plans had the highest churn at 22.05%. Revealed cancelled members averaged only 5.03 badge swipes/month vs. 15.66 for active members — a 3x engagement gap.
 
-Conducted a data-driven business recovery analysis to identify operational inefficiencies, revenue leakage, and performance bottlenecks impacting business growth.
+SQL Power BI Data Visualization
 
-Developed an executive dashboard highlighting return rates, courier performance, category-level losses, and financial impact. Generated strategic recommendations to support revenue recovery and operational improvement.
 
-**Tools & Technologies:** Microsoft Excel, Google Sheets, Dashboard Design, KPI Reporting, Business Intelligence
+📫 Connect With Me
 
----
 
-## 🐝 WorkHive – Member Churn Analytics Dashboard
+💼 LinkedIn: linkedin.com/in/harshitha-s-167639256
+📧 Email: harshithas864@gmail.com
 
-Developed a customer churn analytics dashboard to identify membership retention risks, engagement patterns, and plan-level performance trends.
 
-Analyzed churn behavior across membership plans, monitored member activity metrics, and uncovered key retention drivers through KPI reporting and data visualization.
 
-Generated actionable business recommendations, including early-warning retention strategies and engagement-focused interventions, to support customer retention and operational decision-making.
+🎯 Open to Opportunities
 
-**Tools & Technologies:** Excel, SQL, Power BI (In Progress), Data Visualization, KPI Reporting, Business Intelligence
-
----
-
-# 🎯 Core Skills
-
-- Data Analysis
-- SQL Querying
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- KPI Reporting
-- Business Analytics
-- Customer Analytics
-- Churn Analysis
-- Market Analytics
-- Problem Solving
-
----
-
-# 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/harshitha-s-167639256
-- Email: harshithas864@gmail.com
-
----
-
-### Open to Opportunities
-
-**Data Analyst | Junior Data Analyst | Business Analyst | BI Analyst | Reporting Analyst**
+Data Analyst | Junior Data Analyst | Business Analyst | BI Analyst | Reporting Analyst
